@@ -1,0 +1,76 @@
+{
+  "purchaseInvoice": [
+    {
+      "id": 1,
+      "invoiceType": "purchaseInvoice",
+      "invoiceNumber": "FZ 01/04/2022",
+      "placeOfIssue": "Wrocław",
+      "dateOfIssue": "2022-06-10",
+      "dateOfService": "2022-06-28",
+      "sallerName": "Pan Warzywko",
+      "sallerNIP": "565-543-221",
+      "sallerAddress": "Szkolna 4",
+      "sallerZIPCode": "45-229",
+      "buyerName": "Fakturix",
+      "buyerNIP": "349-118-274",
+      "buyerAddress": "Przemysłowa 4",
+      "buyerZIPCode": "64-100",
+      "paymentTerm": "2022-06-30",
+      "paymentValue": "138117.81",
+      "invoiceProductList": [
+        [
+          {
+            "lp": 1,
+            "productName": "Test1",
+            "productJM": "kg",
+            "productsQuantity": 34,
+            "valueNetto": 3434,
+            "valueVat": "6",
+            "sumVat": 206.04,
+            "valueBrutto": 116962.04
+          },
+          {
+            "lp": 2,
+            "productName": "Test2",
+            "productJM": "m",
+            "productsQuantity": 22,
+            "valueNetto": 343,
+            "valueVat": "7",
+            "sumVat": 24.01,
+            "valueBrutto": 7570.01
+          },
+          {
+            "lp": 3,
+            "productName": "Test3",
+            "productJM": "szt",
+            "productsQuantity": 3,
+            "valueNetto": 434,
+            "valueVat": "22",
+            "sumVat": 95.48,
+            "valueBrutto": 1397.48
+          },
+          {
+            "lp": 4,
+            "productName": "Test4",
+            "productJM": "m",
+            "productsQuantity": 23,
+            "valueNetto": 343,
+            "valueVat": "22",
+            "sumVat": 75.46,
+            "valueBrutto": 7964.46
+          },
+          {
+            "lp": 5,
+            "productName": "Test5",
+            "productJM": "szt",
+            "productsQuantity": 1,
+            "valueNetto": 3434,
+            "valueVat": "23",
+            "sumVat": 789.82,
+            "valueBrutto": 4223.82
+          }
+        ]
+      ]
+    }
+  ]
+}
